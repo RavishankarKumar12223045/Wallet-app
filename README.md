@@ -2,9 +2,6 @@
 
 A comprehensive web application for managing multiple financial accounts, tracking expenses, and monitoring budgets across different payment methods (bank accounts, mobile money, cash, etc.). Built with React.js, Node.js, Express, and MongoDB.
 
-## 🌐 Live Demo
-
-[View Live Demo](https://wallet-app-1-u43k.onrender.com/)
 
 <br /><hr /><br />
 
